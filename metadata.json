@@ -1,0 +1,7 @@
+{
+  "name": "Smart Document Assistant",
+  "description": "Multilingual AI Document Assistant for PDF analysis, semantic search, Indic language processing, speech input, and document Q&A in English, Kannada, and Hindi.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
